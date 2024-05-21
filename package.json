@@ -29,7 +29,7 @@
     "test:ember-compatibility": "ember try:each"
   },
   "peerDependencies": {
-    "ember-data": "4.7.3"
+    "ember-data": "3.28.13"
   },
   "dependencies": {
     "ember-cli-babel": "^7.26.11"
